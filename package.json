@@ -1,0 +1,20 @@
+{
+  "name": "psychic-bear",
+  "version": "1.0.0",
+  "description": "psychic-bear\r ============",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mackah666/psychic-bear.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mackah666/psychic-bear/issues"
+  },
+  "homepage": "https://github.com/mackah666/psychic-bear#readme"
+}
